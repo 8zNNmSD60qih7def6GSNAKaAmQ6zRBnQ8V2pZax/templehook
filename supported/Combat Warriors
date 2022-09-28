@@ -1,0 +1,46 @@
+Jogo: Combat Warriors
+Link: https://www.roblox.com/games/4282985734/
+
+[Combat]
+ * Auto Parry (Dá parry automaticamente quando alguém tenta te atacar)
+ * Auto-Finish (Finaliza players próximos a você com vida baixa)
+ * Auto-Finish (Equipa sua arma automaticamente)
+
+[Ranged]
+ * Wallbang (Permite você atirar e atacar atraves de paredes]
+   - Kunai, Arco, RPG, Heavy e Light (Heavy e light apenas quando o inimigo esta perto)
+
+[Rage]
+ * Kill-Aura (Ataca pessoas próximas a você)
+ * Spin Bot (Faz girar e atacar pessoas perto de você automaticamente, com anti-parry)
+
+[Character]
+ * Walk Speed (Muda a velocidade do seu character)
+ * Jump Height (Muda o pulo do seu character)
+ * Fly (Permite você voar)
+ * Bhop (Faz você ficar pulando)
+
+[Miscellaneous]
+ * Instant Revive (Faz você dar revive instantaneamente quando cair no chão)
+ * Instant Ghost Potion (Faz você usar a ghost potion instantaneamente)
+ * Anti Environment (Faz você não tomar dano de bear traps e molotovs)
+ * Anti Stomp (Faz você não ser finalizado/stompado por outros players)
+ * No Jump Cooldown (Remove o cooldown de você pular)
+ * No Fall Cooldown (Remove o dano de queda)
+ * No Ragdoll (Não te deixa tomar qualquer tipo de ragdoll)
+ * Infinite Stamina (Faz você ter stamina infinita, podendo correr/pular etc infinitamente)
+ * Infinite Air (Faz você ter ar infinito, para não se afogar na água)
+
+[Others]
+ * Kill Spam (Spamma as logs de kills, que fica no canto inferior esquerdo da tela)
+ * Name Hider (Esconde seu nome de usuário, abaixando as chances de levar ban)
+ * Unlock Paid Emotes (Desbloqueia todos os emotes pagos de gamepass do jogo)
+
+[Airdrop]
+ * Airdrop Sniper (Faz você pegar qualquer airdrop que é spawnado no jogo)
+ * Airdrop Reach (Permite que você aumente a distância que você pode pegar um airdrop)
+
+[Visuals]
+ * ESP (Boxes 2d/3d, Tracers, Distance, Name, Health, Look Direction, Visible Only, Colors, Offscreen)
+ * Client Visuals (Ambient, Color Correction, Contrast, Saturation, Third Person, Field of View (FOV), China Hat e Skybox
+ * Crosshair (Width, Height, Gap)
