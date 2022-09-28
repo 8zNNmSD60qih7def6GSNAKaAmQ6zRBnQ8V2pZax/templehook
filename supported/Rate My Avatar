@@ -1,0 +1,75 @@
+Jogo: Rate My Avatar
+Link: https://www.roblox.com/games/6708206173/
+
+[Local]
+ * Walkspeed (16 - 500)
+ * Jump Height (7.1 - 200)
+ * No AFK (Tira sua tag de AFK)
+ * Anti Rate (Tira o botao de perfil do seu personagem [SERVER])
+
+[Booth]
+ * Booth Sniper (Automaticamente pega uma cabine para você)
+ * Auto Blacklist (Da blacklist em todos jogadores da sua cabine)
+ * Anti Blacklist (Permite você entrar em cabines onde esta na blacklist)
+ * Booth Text (Texto da cabine)
+ * Booth Image (Imagem da cabine)
+ * Update Booth (Atualiza a sua cabine com os argumentos do booth text e booth image)
+ * Abandon Booth (Abandona sua cabine)
+ 
+[Rating]
+ * Rate all random (Classifica todos jogadores com estrelas aleatorias)
+ * Rate All (Classifica todos jogadores com os argumentos do amount of stars)
+ * Amount of Stars (1 - 5, A quantia de estrelas que vai dar)
+
+[Tools]
+ * Image Sign (Pega a placa de imagem [GAMEPASS])
+ * Text Sign (Pega a placa de texto [GAMEPASS])
+ * Stop Sign (Pega a placa de pare [GAMEPASS])
+
+[Functions]
+ * Open Shop (Abre a loja do jogo)
+ * Respawn (Respawna seu personagem)
+ * Drop Tools (Dropa todos seus itens)
+
+[Teleports]
+ * Use Display Names (Usa display names para os teleportes)
+ * Player Name (Nome do jogador que quer teleportar)
+ * Teleport To Player (Teleporta ao jogador escolhido)
+ * Locations (Selecionar a localização onde quer ser teleportado)
+  - Shop, Shop Sign, Spawn, Stage, Top Rated, Tree 1, Tree 2, Easter Egg, Lounge Inside, Lounge Outside, Rate my avatar booths, Ask me anything booths, Guessing booths. -
+ * Teleport (Teleporta a localização selecionada) 
+[Knight]
+ * Knight Sniper (Automaticamente vira um knight quando tem espaço livre)
+ * Get Sword (Spawna uma espada para você)
+
+[Sword]
+ * Sword Dupe (Duplica suas espadas)
+ * Count Swords (Conta quantas espadas você tem)
+ * Equip Swords (Equipa todas espadas que você tem)
+ * Demesh Swords (Tira a mesh de todas espadas que você tem
+ * Demesh Held Swords (Tira a mesh das espadas que você esta segurando)
+ * Drop Swords (Dropa todas espadas no chão)
+
+[Sword Vis]
+ * Spin Circle (Faz suas espadas girar em um circulo)
+ * Spin Spiral (Faz suas espadas girar em um espiral)
+ * Circle Character Offset (Muda a distancia das espadas ao seu corpo)
+ * Circle Sword Offset (Muda a distancia de espada a espada [APENAS START CIRCLE])
+ * Spiral Character Offset (Muda a distancia das espadas ao seu corpo)
+ * Spiral Sword Offset (Muda a distancia de espada a espada [APENAS START SPIRAL])
+ * Start Circle (Inicia um circulo estatico)
+ * Start Spiral (Inicia um espiral estatico)
+
+[Sword Grip]
+- Posições
+ * Forward
+ * Pos
+ * Right
+ * Up
+ 
+ * Update Grip (Atualiza a posição da sua espada baseado nas posições)
+ * Reset Grip (Reseta a posição da sua espada ao normal)
+
+[Visuals]
+ * ESP [UNIVERSAL]
+ * Client Visuals [UNIVERSAL]
