@@ -1,0 +1,65 @@
+Jogo: Generic Roleplay Gaem
+Link: https://www.roblox.com/games/4598019433/
+
+[Character]
+ * Walkspeed (16 - 30 | Deixa você mais rapido)
+ * Jesus (Caminhar sobre a agua)
+ * Noclip (Caminhar atraves de paredes)
+ * Name hider (Esconde seu nome)
+ * Anti Wanted (Esconde sua tag de procurado)
+ * Anti Rent (Esconde seu alugel)
+ * Anti Thin (Não ficar magro com fome)
+
+[Vehicles]
+ * Vehicle Flight (Voar com seu kart)
+ * Vehicle Speed (Modifica a velocidade do seui kart)
+ * Wheel Height (Aumentar a altura das rodas)
+ * Bring Kart (Teleportar seu kart ate você)
+
+[Weapons]
+ * Sword Reach (3 - 50 | Aumenta o alcance da espada)
+ * Hitbox Extender (2 - 30 | Aumenta a hitbox dos jogadores e barbaros)
+
+[Misc]
+ * Autofarm (Farma dinheiro para você | Precisa de $300)
+ * Anti Staff (Sai do jogo quando um membro da staff entra)
+
+[Utility]
+ * Play Sounds (Toca todos os sons do jogo (FE))
+ * Instant Respawn (Respawna você instantaneamente)
+ * Fix Network (Arruma o bug de delay apos teleportar)
+ * Rounded Character (Deixa seu personagem redondo denovo)
+ * Remove Team Only (Permite você subir na area do lider)
+ * Clear Notifications (Limpa todas notificações)
+ * Spectate Mode (Permite você spectar outros usuarios)
+ * Get Signs (Recebe todas placas do jogo)
+
+[Leader Utility]
+ * Raise All (Aumenta o preço de tudo)
+ * Lower All (Abaixa o preço de tudo)
+ * Resign (Sai do time do lider)
+
+[Game Visuals]
+ * Show flood Supply (Mostra a quantidade de comida)
+ * Money Tree ESP (Mostra as arvores valiosas)
+ * Body ESP (Mostra os corpos)
+ * Dumpster ESP (Mostra os lixoes)
+ * Banana ESP (Mostra as armadilhas)
+ * Barbarian ESP (Mostra os barbaros)
+ * Kart ESP (Mostra os karts)
+ * Anti Rain (Remove a chuva)
+ * Rain Intensity (0-5 | Força da chuva (CLIENT))
+[ESP] - Universal
+[Client Visuals] - Universal
+ 
+[Normal Teleports]
+
+ *  Choose place (Escolha o lugar onde quer teleportar)
+    - Castle Middle, Castle Dock, Castle Statue, Doctor Office, Weapon Store, Janitor Area, Beach, Watchtower [1], Watchtower [2], Watchtower [3], Watchtower [4], Guard House, Prison, Ice Mountain, Farmkarts, Karl Karts, Race Track, Rice Farm [1], Rice Farm [2], Village Middle, Peasant Spawn, Barbarian Spawn, Barbarian Village, Council Room, Statues, Mountain, Mountain Lake, Arena, Allys, Lobby
+ *  Teleport (Teleporta seu personagem ate a localização)
+
+[Vehicle Teleports]
+
+ *  Choose place (Escolha o lugar onde seu carro vai teleportar)
+    - Castle Middle, Castle Dock, Castle Statue, Doctor Office, Weapon Store, Janitor Area, Beach, Watchtower [1], Watchtower [2], Watchtower [3], Watchtower [4], Guard House, Prison, Ice Mountain, Farmkarts, Karl Karts, Race Track, Rice Farm [1], Rice Farm [2], Village Middle, Peasant Spawn, Barbarian Spawn, Barbarian Village, Council Room, Statues, Mountain, Mountain Lake, Arena, Allys, Lobby
+ *  Teleport Vehicle (Teleporta seu personagem ate a localização)
