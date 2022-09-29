@@ -21,6 +21,8 @@ Link: https://www.roblox.com/games/4282985734/
  * Bhop (Faz você ficar pulando)
 
 [Miscellaneous]
+ * Auto Respawn (Respawna seu personagem quanto estiver abaixo da vida selecionada)
+ * Auto respawn at (Selecione o limite de vida para respawnar)
  * Instant Revive (Faz você dar revive instantaneamente quando cair no chão)
  * Instant Ghost Potion (Faz você usar a ghost potion instantaneamente)
  * Anti Environment (Faz você não tomar dano de bear traps e molotovs)
@@ -32,9 +34,13 @@ Link: https://www.roblox.com/games/4282985734/
  * Infinite Air (Faz você ter ar infinito, para não se afogar na água)
 
 [Others]
- * Kill Spam (Spamma as logs de kills, que fica no canto inferior esquerdo da tela)
+ * Auto Quest (Automaticamente coleta as recompensas das missoes diarias)
+ * Auto Convert (Automaticamente converte creditos para aeather)
+ * Auto Convert At (Digite a quantia de creditos que precisa ter antes de converter)
+ * Killfeed Spam (Spamma as logs de kills, que fica no canto inferior esquerdo da tela)
  * Name Hider (Esconde seu nome de usuário, abaixando as chances de levar ban)
  * Unlock Paid Emotes (Desbloqueia todos os emotes pagos de gamepass do jogo)
+ * Unlock Voice Chat Servers (Desbloqueia os servidores de chat de voz)
 
 [Airdrop]
  * Airdrop Sniper (Faz você pegar qualquer airdrop que é spawnado no jogo)
