@@ -7,10 +7,6 @@ Link: https://www.roblox.com/games/4282985734/
  * Auto-Finish (Finaliza players próximos a você com vida baixa)
  * Auto-Finish (Equipa sua arma automaticamente)
 
-[Ranged]
- * Wallbang (Permite você atirar e atacar atraves de paredes]
-   - Kunai, Arco, RPG, Heavy e Light (Heavy e light apenas quando o inimigo esta perto)
-
 [Character]
  * Walk Speed (Muda a velocidade do seu character)
  * Jump Height (Muda o pulo do seu character)
@@ -18,6 +14,10 @@ Link: https://www.roblox.com/games/4282985734/
  * Bhop (Faz você pular enquanto ganha velocidade, mais dificil de te acertar.)
  * Anti Aim (Deixa você mais dificil de acertar)
  * Fling (Joga os players que você encosta no void)
+
+[Ranged]
+ * Wallbang (Permite você atirar e atacar atraves de paredes]
+   - Kunai, Arco, RPG, Heavy e Light (Heavy e light apenas quando o inimigo esta perto)
 
 [Miscellaneous]
  * Auto Respawn (Respawna seu personagem quanto estiver abaixo da vida selecionada)
